@@ -3,7 +3,7 @@
 My daily Python learning projects — one script per day.
 
 ## Progress
--  Day 1: Rock Paper Scissors game (Done and updated on day 4)
+-  Day 1: Rock Paper Scissors game (Done and updated on day 5)
 -  Day 2: Word Analyzer (Done)
 -  Day 3: Grocery List Manager (Done)
 -  Day 4: Tuples & Sets (Done)
