@@ -7,6 +7,7 @@ My daily Python learning projects — one script per day.
 -  Day 2: Word Analyzer (Done)
 -  Day 3: Grocery List Manager (Done)
 -  Day 4: Tuples & Sets (Done)
+-  Day 5: Contact Book (Done)
 
 
 ## Topics Covered
@@ -15,3 +16,4 @@ My daily Python learning projects — one script per day.
 - Lists (Completed)
 - Tuples (Completed)
 - Set (Completed)
+- Dictionaries (Completed)
