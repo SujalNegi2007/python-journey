@@ -8,7 +8,7 @@ My daily Python learning projects — one script per day.
 -  Day 3: Grocery List Manager (Done)
 -  Day 4: Tuples & Sets (Done)
 -  Day 5: Contact Book (Done)
-
+-  Day 6: Grade Calculator (Done)
 
 ## Topics Covered
 - Variables & Data Types (Completed)
@@ -17,3 +17,4 @@ My daily Python learning projects — one script per day.
 - Tuples (Completed)
 - Set (Completed)
 - Dictionaries (Completed)
+- If/elif/else (Completed)
