@@ -9,7 +9,7 @@ My daily Python learning projects — one script per day.
 -  Day 4: Tuples & Sets (Done)
 -  Day 5: Contact Book (Done)
 -  Day 6: Grade Calculator (Done)
--  Day 7: FizzBuzz (In progress)
+-  Day 7: FizzBuzz (Done)
 
 ## Topics Covered
 - Variables & Data Types (Completed)
