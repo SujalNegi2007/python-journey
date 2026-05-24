@@ -10,6 +10,7 @@ My daily Python learning projects — one script per day.
 -  Day 5: Contact Book (Done)
 -  Day 6: Grade Calculator (Done)
 -  Day 7: FizzBuzz (Done)
+-  Day 8:  20 Small functions (In Progress)
 
 ## Topics Covered
 - Variables & Data Types (Completed)
@@ -20,3 +21,4 @@ My daily Python learning projects — one script per day.
 - Dictionaries (Completed)
 - If/elif/else (Completed)
 - For & While Loops (Completed)
+- Functions (Completed)
