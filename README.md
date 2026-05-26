@@ -12,7 +12,7 @@ My daily Python learning projects — one script per day.
 -  Day 7: FizzBuzz (Done)
 -  Day 8: 20 Small functions (Done)
 -  Day 9: Multi-Function Calculator(Done)
--  Day 10: List Comprehensions (Done)
+-  Day 10: List Comprehensions exercies (Done)
 
 ## Topics Covered
 - Variables & Data Types (Completed)
