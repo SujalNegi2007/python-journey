@@ -12,6 +12,7 @@ My daily Python learning projects — one script per day.
 -  Day 7: FizzBuzz (Done)
 -  Day 8: 20 Small functions (Done)
 -  Day 9: Multi-Function Calculator(Done)
+-  Day 10: List Comprehensions (Done)
 
 ## Topics Covered
 - Variables & Data Types (Completed)
@@ -24,3 +25,4 @@ My daily Python learning projects — one script per day.
 - For & While Loops (Completed)
 - Functions (Completed)
 - *args and **kwargs (Completed)
+- List Comprehensions (Completed)
