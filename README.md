@@ -11,7 +11,7 @@ My daily Python learning projects — one script per day.
 -  Day 6: Grade Calculator (Done)
 -  Day 7: FizzBuzz (Done)
 -  Day 8: 20 Small functions (Done)
--  Day 9: Multi-Function Calculator(In Progress)
+-  Day 9: Multi-Function Calculator(Done)
 
 ## Topics Covered
 - Variables & Data Types (Completed)
