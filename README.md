@@ -13,7 +13,7 @@ My daily Python learning projects — one script per day.
 -  Day 8: 20 Small functions (Done)
 -  Day 9: Multi-Function Calculator(Done)
 -  Day 10: List Comprehensions exercies (Done)
--  Day 11: File Handling & Log Writer (Done)
+-  Day 11: File Handling & Log Writer & Student Database System with CSV & Pandas (Done)
 
 ## Topics Covered
 - Variables & Data Types (Completed)
@@ -28,3 +28,5 @@ My daily Python learning projects — one script per day.
 - *args and **kwargs (Completed)
 - List Comprehensions (Completed)
 - File Handling (Read, Write, Append) (Completed)
+- CSV File Handling (Completed)
+- Pandas Basics - read_csv, groupby, dropna, idxmax, idxmin (Completed)
