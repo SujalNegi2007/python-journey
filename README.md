@@ -30,3 +30,7 @@ My daily Python learning projects — one script per day.
 - File Handling (Read, Write, Append) (Completed)
 - CSV File Handling (Completed)
 - Pandas Basics - read_csv, groupby, dropna, idxmax, idxmin (Completed)
+- Clousers (completed)
+- Lambda (map, filter, reduce) (completed)
+- Exception Handling (Completed)
+  
