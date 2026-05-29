@@ -1,6 +1,8 @@
 import csv
 import os
 import pandas as pd
+class InvalidMarksError(Exception):
+    pass
 if not os.path.exists("database.csv"):
     f = open("database.csv","w",newline = "")
     obj = csv.writer(f)
@@ -19,9 +21,19 @@ def asking():
     name = a[0]
     while True:
         marks = input("Enter the Marks of the Student: ")
-        if marks.isdigit():
-            break
-        print("Enter the valid marks!")
+        try:
+            if marks.isdigit():
+                marks = int(marks)
+                if 0 <= marks <= 100:
+                    break
+                else:
+                    raise InvalidMarksError("Given Input Is Outside The Set Range!")
+            else:
+                raise ValueError ("Must contain numbers!")
+        except Exception as e:
+            print(f"Please Enter Valid Input! Error: {e}")
+        else:
+            print("Marks Saved")
     subject = input("Enter the Subject of the Student: ").capitalize().strip()
     b = [name, marks, subject]
     return b
@@ -37,7 +49,7 @@ def yes_no(user_choice):
 def checking_int():
     while True:
         user_choice = input("Enter Your Choice: ")
-        if user_choice.isdigit():
+        try:
             user_choice = int(user_choice)
             user_yes_no = yes_no(user_choice)
             if user_yes_no =="Yes":
@@ -45,8 +57,10 @@ def checking_int():
             elif user_yes_no =="No":
                 print("Going Back...")
                 return "back"
+        except Exception as e:
+            print(f"Please Enter Valid Input! Error: {e}")
         else:
-            print("Please Enter Valid Input!")
+            print("Input Taken.")
 def assigning_digit():
     user_choice_in_assign_func = checking_int()
     if user_choice_in_assign_func != "back":
@@ -70,9 +84,19 @@ def assigning_digit():
         return
 def adding_to_database():
     b = asking()
-    with open("database.csv","a", newline = "") as csv_writer:
-        obj = csv.writer(csv_writer)
-        obj.writerow(b)
+    try:
+        with open("database.csv","a", newline = "") as csv_writer:
+            obj = csv.writer(csv_writer)
+            obj.writerow(b)
+    except FileNotFoundError:
+        print("File Not Found! Creating New File...")
+        with open("database.txt","a",newline="") as csv_writer:
+            obj =csv.writer(csv_writer)
+            obj.writerow(b)
+    else:
+        print("Added to the File.")
+    finally:
+        print("Operation Complete.")
 def option_6():
     try:
         db = pd.read_csv('database.csv')
@@ -80,8 +104,14 @@ def option_6():
             print(db)
         else:
             print("There is no data present!")
-    except Exception as e:
-        print(f"Error: {e}!")
+    except FileNotFoundError:
+        print("File Not Found! Creating New File...")
+        with open("database.txt","a",newline="") as csv_writer:
+            pass
+    except pd.errors.ParserError:
+        print("File is corrupted! Fix it or delete it.")
+    finally:
+        print("Operation Complete.")
 def option_5():
     try:
         db = pd.read_csv('database.csv')
@@ -89,31 +119,55 @@ def option_5():
             print(db.head())
         else:
             print("There is no data present!")
-    except Exception as e:
-        print(f"Error: {e}!")
+    except FileNotFoundError:
+        print("File Not Found! Creating New File...")
+        with open("database.txt","a",newline="") as csv_writer:
+            pass
+    except pd.errors.ParserError:
+        print("File is corrupted! Fix it or delete it.")
+    finally:
+        print("Operation Complete.")
 def option_2():
     try:
         db = pd.read_csv('database.csv')
         db['marks'] = pd.to_numeric(db['marks'],errors = "coerce")
         print(db.groupby('subject')['marks'].mean())
-    except Exception as e:
-        print(f"Error: {e}!")
+    except FileNotFoundError:
+        print("File Not Found! Creating New File...")
+        with open("database.txt","a",newline="") as csv_writer:
+            pass
+    except pd.errors.ParserError:
+        print("File is corrupted! Fix it or delete it.")
+    finally:
+        print("Operation Complete.")
 def option_3():
     try:
         db = pd.read_csv('database.csv')
         db['marks'] = pd.to_numeric(db['marks'],errors = "coerce")
         clean_db = db.dropna(subset=['marks'])
         print(clean_db.loc[clean_db['marks'].idxmax()])
-    except Exception as e:
-        print(f"Error: {e}!")
+    except FileNotFoundError:
+        print("File Not Found! Creating New File...")
+        with open("database.txt","a",newline="") as csv_writer:
+            pass
+    except pd.errors.ParserError:
+        print("File is corrupted! Fix it or delete it.")
+    finally:
+        print("Operation Complete.")
 def option_4():
     try:
         db = pd.read_csv('database.csv')
         db["marks"] = pd.to_numeric(db["marks"],errors = "coerce")
         clean_db = db.dropna(subset=['marks'])
         print(clean_db.loc[clean_db['marks'].idxmin()])
-    except Exception as e:
-        print(f"Error: {e}!")
+    except FileNotFoundError:
+        print("File Not Found! Creating New File...")
+        with open("database.txt","a",newline="") as csv_writer:
+            pass
+    except pd.errors.ParserError:
+        print("File is corrupted! Fix it or delete it.")
+    finally:
+        print("Operation Complete.")
 while True:
     window()
     a = assigning_digit()
