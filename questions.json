@@ -1,0 +1,32 @@
+[
+    {
+        "question" : "Which one of the give option is a bool?",
+        "options" : "Option:A 'true'    Option:B true    Option:C True    Option:D 'True'",
+        "answer" : "C"
+    },
+    {
+        "question" : "Which function remove unnecessary spaces from string?",
+        "options" : "Option:A .split()    Option:B .capitalize()    Option:C .join()    Option:D .strip()",
+        "answer" : "D"
+    },
+    {
+        "question" : "Which one is used to add elements to the list?",
+        "options" : "Option:A .append()    Option:B .index()    Option:C .join()    Option:D .sort()",
+        "answer" : "A"
+    },
+    {
+        "question" : "Which function stores elements randomly in it?",
+        "options" : "Option:A List    Option:B string    Option:C tuple   Option:D set",
+        "answer" : "D"
+    },
+    {
+        "question" : "Which function contains key and values in it?",
+        "options" : "Option:A set    Option:B dictionaries    Option:C tuple    Option:D list",
+        "answer" : "B"
+    },
+    {
+        "question" : "Which one we have to use first to access if/else?",
+        "options" : "Option:A else    Option:B elif    Option:C if    Option:D ifse",
+        "answer" : "C"
+    }
+]
