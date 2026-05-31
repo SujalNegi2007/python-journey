@@ -1,0 +1,7 @@
+[2026-05-31 21:22:55], Operation took 1.943 seconds.
+[2026-05-31 21:22:55], Operation took 4.293 seconds.
+[2026-05-31 21:22:55], User cleaned the file and total faulty rows were 1
+[2026-05-31 21:22:55], Operation took 0.024 seconds.
+[2026-05-31 21:23:02], Operation took 1.400 seconds.
+[2026-05-31 21:23:02], Operation took 6.470 seconds.
+[2026-05-31 21:23:02], Operation took 0.051 seconds.
