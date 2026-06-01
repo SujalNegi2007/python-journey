@@ -1,0 +1,1 @@
+from grade_manager.config import DB_file, log_file
