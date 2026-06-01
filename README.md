@@ -15,6 +15,8 @@ My daily Python learning projects — one script per day.
 -  Day 10: List Comprehensions exercies (Done)
 -  Day 11: File Handling & Log Writer & Student Database System with CSV & Pandas (Done)
 -  Day 12: Error Handling — try/except/finally + hardened Student Database (Done)
+-  Day 13: Error Handling — Grade Manager with full error handling, repair_file() & logging (Done)
+-  Day 14: Modules, Packages & pathlib — Grade Manager refactored into a package with pathlib (Done)
 
 ## Topics Covered
 - Variables & Data Types (Completed)
@@ -35,3 +37,6 @@ My daily Python learning projects — one script per day.
 - Lambda (map, filter, reduce) (completed)
 - Exception Handling (Completed)
 - Error Handling — try/except/finally, Exception types, ValueError, FileNotFoundError (Completed)
+- Modules & Packages (Completed)
+- pathlib (Completed)
+- json config loading (Completed)
