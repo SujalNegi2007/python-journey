@@ -1,0 +1,255 @@
+{
+    "books": {
+        "1984": {
+            "available": 5,
+            "author": "George Orwell",
+            "pages": 328
+        },
+        "To Kill a Mockingbird": {
+            "available": 3,
+            "author": "Harper Lee",
+            "pages": 281
+        },
+        "The Great Gatsby": {
+            "available": 2,
+            "author": "F. Scott Fitzgerald",
+            "pages": 180
+        },
+        "Dune": {
+            "available": 4,
+            "author": "Frank Herbert",
+            "pages": 617
+        },
+        "The Hobbit": {
+            "available": 6,
+            "author": "J.R.R. Tolkien",
+            "pages": 310
+        },
+        "Fahrenheit 451": {
+            "available": 3,
+            "author": "Ray Bradbury",
+            "pages": 156
+        },
+        "Brave New World": {
+            "available": 4,
+            "author": "Aldous Huxley",
+            "pages": 268
+        },
+        "Pride and Prejudice": {
+            "available": 5,
+            "author": "Jane Austen",
+            "pages": 279
+        },
+        "The Catcher in the Rye": {
+            "available": 2,
+            "author": "J.D. Salinger",
+            "pages": 234
+        },
+        "The Lord of the Rings": {
+            "available": 3,
+            "author": "J.R.R. Tolkien",
+            "pages": 1178
+        },
+        "Animal Farm": {
+            "available": 4,
+            "author": "George Orwell",
+            "pages": 112
+        },
+        "Neuromancer": {
+            "available": 3,
+            "author": "William Gibson",
+            "pages": 271
+        },
+        "Foundation": {
+            "available": 5,
+            "author": "Isaac Asimov",
+            "pages": 255
+        },
+        "Frankenstein": {
+            "available": 3,
+            "author": "Mary Shelley",
+            "pages": 280
+        },
+        "Dracula": {
+            "available": 2,
+            "author": "Bram Stoker",
+            "pages": 418
+        },
+        "The Shining": {
+            "available": 4,
+            "author": "Stephen King",
+            "pages": 447
+        },
+        "Ender's Game": {
+            "available": 4,
+            "author": "Orson Scott Card",
+            "pages": 324
+        },
+        "The Hitchhiker's Guide to the Galaxy": {
+            "available": 6,
+            "author": "Douglas Adams",
+            "pages": 193
+        },
+        "Crime and Punishment": {
+            "available": 2,
+            "author": "Fyodor Dostoevsky",
+            "pages": 671
+        },
+        "The Odyssey": {
+            "available": 3,
+            "author": "Homer",
+            "pages": 541
+        },
+        "Burmese Days": {
+            "available": 4,
+            "author": "George Orwell",
+            "pages": 272
+        },
+        "Homage to Catalonia": {
+            "available": 3,
+            "author": "George Orwell",
+            "pages": 242
+        },
+        "Go Set a Watchman": {
+            "available": 2,
+            "author": "Harper Lee",
+            "pages": 278
+        },
+        "Tender Is the Night": {
+            "available": 3,
+            "author": "F. Scott Fitzgerald",
+            "pages": 315
+        },
+        "This Side of Paradise": {
+            "available": 4,
+            "author": "F. Scott Fitzgerald",
+            "pages": 304
+        },
+        "Dune Messiah": {
+            "available": 5,
+            "author": "Frank Herbert",
+            "pages": 256
+        },
+        "Children of Dune": {
+            "available": 3,
+            "author": "Frank Herbert",
+            "pages": 444
+        },
+        "The Silmarillion": {
+            "available": 4,
+            "author": "J.R.R. Tolkien",
+            "pages": 365
+        },
+        "Unfinished Tales": {
+            "available": 3,
+            "author": "J.R.R. Tolkien",
+            "pages": 472
+        },
+        "Something Wicked This Way Comes": {
+            "available": 3,
+            "author": "Ray Bradbury",
+            "pages": 293
+        },
+        "The Martian Chronicles": {
+            "available": 5,
+            "author": "Ray Bradbury",
+            "pages": 256
+        },
+        "Island": {
+            "available": 2,
+            "author": "Aldous Huxley",
+            "pages": 354
+        },
+        "Point Counter Point": {
+            "available": 3,
+            "author": "Aldous Huxley",
+            "pages": 432
+        },
+        "Sense and Sensibility": {
+            "available": 4,
+            "author": "Jane Austen",
+            "pages": 409
+        },
+        "Emma": {
+            "available": 5,
+            "author": "Jane Austen",
+            "pages": 474
+        },
+        "Franny and Zooey": {
+            "available": 3,
+            "author": "J.D. Salinger",
+            "pages": 201
+        },
+        "Nine Stories": {
+            "available": 2,
+            "author": "J.D. Salinger",
+            "pages": 198
+        },
+        "Count Zero": {
+            "available": 4,
+            "author": "William Gibson",
+            "pages": 256
+        },
+        "Mona Lisa Overdrive": {
+            "available": 3,
+            "author": "William Gibson",
+            "pages": 308
+        },
+        "Foundation and Empire": {
+            "available": 5,
+            "author": "Isaac Asimov",
+            "pages": 247
+        },
+        "Second Foundation": {
+            "available": 4,
+            "author": "Isaac Asimov",
+            "pages": 250
+        },
+        "The Last Man": {
+            "available": 2,
+            "author": "Mary Shelley",
+            "pages": 470
+        },
+        "The Lair of the White Worm": {
+            "available": 3,
+            "author": "Bram Stoker",
+            "pages": 192
+        },
+        "It": {
+            "available": 4,
+            "author": "Stephen King",
+            "pages": 1138
+        },
+        "Misery": {
+            "available": 5,
+            "author": "Stephen King",
+            "pages": 310
+        },
+        "Speaker for the Dead": {
+            "available": 4,
+            "author": "Orson Scott Card",
+            "pages": 415
+        },
+        "Xenocide": {
+            "available": 3,
+            "author": "Orson Scott Card",
+            "pages": 592
+        },
+        "The Restaurant at the End of the Universe": {
+            "available": 6,
+            "author": "Douglas Adams",
+            "pages": 250
+        },
+        "The Idiot": {
+            "available": 3,
+            "author": "Fyodor Dostoevsky",
+            "pages": 656
+        },
+        "The Iliad": {
+            "available": 4,
+            "author": "Homer",
+            "pages": 683
+        }
+    },
+    "members": {}
+}
