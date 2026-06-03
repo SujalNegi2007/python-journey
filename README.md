@@ -19,6 +19,7 @@ My daily Python learning projects — one script per day.
 -  Day 14: Modules, Packages & pathlib — Grade Manager refactored into a package with pathlib (Done)
 -  Day 15: Library Management System with OOP — classes, __init__, self, JSON persistence (Done)
 -  Day 16: Library Management System extended — search_by_author(), list_available(), export_to_csv(), CSV re-import (Done)
+-  Day 17: Library Management System with OOP — inheritance & polymorphism, EBook & AudioBook subclasses, display_clean_data() (Done)
 
 ## Topics Covered
 - Variables & Data Types (Completed)
@@ -45,3 +46,4 @@ My daily Python learning projects — one script per day.
 - OOP — classes & objects (Completed)
 - __init__ & instance attributes (Completed)
 - self keyword (Completed)
+- Inheritance & Polymorphism (Completed)
