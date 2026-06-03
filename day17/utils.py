@@ -13,7 +13,7 @@ def yes_no():
 
 
 def window():
-    print("\n+------------------------------------------------------------+\n| To Borrow A Book                               : Enter [1] |\n| To Check If A Book Is Avaliable                : Enter [2] |\n| Want To Borrow A Random Book                   : Enter [3] |\n| Want To Return A Book                          : Enter [4] |\n| To Check Shelf                                 : Enter [5] |\n| To Search Book By Author's Name                : Enter [6] |\n| To check all available books                   : Enter [7] |\n| To Convert The Json Database Into CSV Database : Enter [8] |\n| To Convert CSV into json                       : Enter [9] |\n| To Exit The Library                           : Enter [10] |\n+------------------------------------------------------------+\n")
+    print("\n+------------------------------------------------------------+\n| To Borrow A Book                               : Enter [1] |\n| To Check If A Book Is Avaliable                : Enter [2] |\n| Want To Borrow A Random Book                   : Enter [3] |\n| Want To Return A Book                          : Enter [4] |\n| To Check Shelf                                 : Enter [5] |\n| To Search Book By Author's Name                : Enter [6] |\n| To check all available books                   : Enter [7] |\n| To Check Raw Data                              : Enter [8] |\n| To Convert The Json Database Into CSV Database : Enter [9] |\n| To Convert CSV into json                      : Enter [10] |\n| To Exit The Library                           : Enter [11] |\n+------------------------------------------------------------+\n")
 
 def name():
     user_name = input("\nEnter Your Name: ").capitalize().strip()
