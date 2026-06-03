@@ -3,6 +3,7 @@ import json
 import utils
 import random
 import csv
+import book_types
 
 Warehouse = "Warehouse.json"
 
@@ -155,6 +156,15 @@ class library:
                 a["books"][p] = {"available" : r, "author" : q, "pages" : s, "duration_mins" : u, "file_size_mb" : v, "type" : w}
         with Path("Warehouse.json").open("w") as f:
             json.dump(a,f,indent = 4)
+    def display_clean_data(self):
+        b = list(self.a["books"].keys())
+        for i in range(len(b)):
+            if self.a["books"][b[i]]["type"] == "book":
+                book_types.book(self.a["books"][b[i]]["author"], self.a["books"][b[i]]["available"], b[i], self.a["books"][b[i]]["pages"]).display_info()
+            elif self.a["books"][b[i]]["type"] == "ebook":
+                book_types.ebook(self.a["books"][b[i]]["author"], self.a["books"][b[i]]["available"], b[i], self.a["books"][b[i]]["pages"], self.a["books"][b[i]]["file_size_mb"]).display_info()
+            elif self.a["books"][b[i]]["type"] == "audiobook":
+                book_types.audiobook(self.a["books"][b[i]]["author"], self.a["books"][b[i]]["available"], b[i], self.a["books"][b[i]]["file_size_mb"], self.a["books"][b[i]]["duration_mins"]).display_info()
 
 
 lib = library()
@@ -196,17 +206,19 @@ while True:
             elif user_value == 4:
                 lib.returned_book(first_name)
             elif user_value == 5:
-                lib.check_self()
+                lib.display_clean_data()
             elif user_value == 6:
                 author = input("Enter the name of author: ")
                 lib.check_author(author)
             elif user_value == 7:
                 lib.all_available_books()
             elif user_value == 8:
-                lib.changing_to_csv()
+                lib.check_self()
             elif user_value == 9:
-                lib.changing_to_json()
+                lib.changing_to_csv()
             elif user_value == 10:
+                lib.changing_to_json()
+            elif user_value == 11:
                 break
             else:
                 print("Invalid Input!")
