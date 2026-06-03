@@ -9,7 +9,7 @@ class book:
         print(f"Book : {self.title} | Author : {self.author} | Available : {self.available} | Pages : {self.pages}")
 
 class ebook(book):
-    def __init__(self,size,author,available,title,pages):
+    def __init__(self,author,available,title,pages,size):
         super().__init__(author,available,title,pages)
         self.size = size
     
