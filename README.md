@@ -20,6 +20,7 @@ My daily Python learning projects — one script per day.
 -  Day 15: Library Management System with OOP — classes, __init__, self, JSON persistence (Done)
 -  Day 16: Library Management System extended — search_by_author(), list_available(), export_to_csv(), CSV re-import (Done)
 -  Day 17: Library Management System with OOP — inheritance & polymorphism, EBook & AudioBook subclasses, display_clean_data() (Done)
+-  Day 18: Library Management System with OOP — dunder methods (__str__, __repr__, __lt__), display_sorted() using object comparison (Done)
 
 ## Topics Covered
 - Variables & Data Types (Completed)
@@ -47,3 +48,8 @@ My daily Python learning projects — one script per day.
 - __init__ & instance attributes (Completed)
 - self keyword (Completed)
 - Inheritance & Polymorphism (Completed)
+- Dunder Methods / Magic Methods (Completed)
+- __str__ — printable object output (Completed)
+- __repr__ — developer/debug output (Completed)
+- __lt__ — object comparison for sorted() (Completed)
+- Method Overriding via Inheritance (Completed)
