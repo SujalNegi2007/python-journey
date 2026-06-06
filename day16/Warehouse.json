@@ -3,252 +3,578 @@
         "1984": {
             "available": 5,
             "author": "George Orwell",
-            "pages": 328
+            "pages": 328,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "To Kill a Mockingbird": {
             "available": 3,
             "author": "Harper Lee",
-            "pages": 281
+            "pages": 281,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Great Gatsby": {
             "available": 2,
             "author": "F. Scott Fitzgerald",
-            "pages": 180
-        },
-        "Dune": {
-            "available": 4,
-            "author": "Frank Herbert",
-            "pages": 617
+            "pages": 180,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Hobbit": {
             "available": 6,
             "author": "J.R.R. Tolkien",
-            "pages": 310
+            "pages": 310,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Fahrenheit 451": {
             "available": 3,
             "author": "Ray Bradbury",
-            "pages": 156
+            "pages": 156,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Brave New World": {
             "available": 4,
             "author": "Aldous Huxley",
-            "pages": 268
+            "pages": 268,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Pride and Prejudice": {
             "available": 5,
             "author": "Jane Austen",
-            "pages": 279
+            "pages": 279,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Catcher in the Rye": {
             "available": 2,
             "author": "J.D. Salinger",
-            "pages": 234
+            "pages": 234,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Lord of the Rings": {
             "available": 3,
             "author": "J.R.R. Tolkien",
-            "pages": 1178
+            "pages": 1178,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Animal Farm": {
             "available": 4,
             "author": "George Orwell",
-            "pages": 112
+            "pages": 112,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Neuromancer": {
             "available": 3,
             "author": "William Gibson",
-            "pages": 271
+            "pages": 271,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Foundation": {
             "available": 5,
             "author": "Isaac Asimov",
-            "pages": 255
+            "pages": 255,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Frankenstein": {
             "available": 3,
             "author": "Mary Shelley",
-            "pages": 280
+            "pages": 280,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Dracula": {
             "available": 2,
             "author": "Bram Stoker",
-            "pages": 418
+            "pages": 418,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Shining": {
             "available": 4,
             "author": "Stephen King",
-            "pages": 447
+            "pages": 447,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Ender's Game": {
             "available": 4,
             "author": "Orson Scott Card",
-            "pages": 324
+            "pages": 324,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Hitchhiker's Guide to the Galaxy": {
             "available": 6,
             "author": "Douglas Adams",
-            "pages": 193
+            "pages": 193,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Crime and Punishment": {
             "available": 2,
             "author": "Fyodor Dostoevsky",
-            "pages": 671
+            "pages": 671,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Odyssey": {
             "available": 3,
             "author": "Homer",
-            "pages": 541
+            "pages": 541,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Burmese Days": {
             "available": 4,
             "author": "George Orwell",
-            "pages": 272
+            "pages": 272,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Homage to Catalonia": {
             "available": 3,
             "author": "George Orwell",
-            "pages": 242
+            "pages": 242,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Go Set a Watchman": {
             "available": 2,
             "author": "Harper Lee",
-            "pages": 278
+            "pages": 278,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Tender Is the Night": {
             "available": 3,
             "author": "F. Scott Fitzgerald",
-            "pages": 315
+            "pages": 315,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "This Side of Paradise": {
             "available": 4,
             "author": "F. Scott Fitzgerald",
-            "pages": 304
+            "pages": 304,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Dune Messiah": {
             "available": 5,
             "author": "Frank Herbert",
-            "pages": 256
+            "pages": 256,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Children of Dune": {
             "available": 3,
             "author": "Frank Herbert",
-            "pages": 444
+            "pages": 444,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Silmarillion": {
             "available": 4,
             "author": "J.R.R. Tolkien",
-            "pages": 365
+            "pages": 365,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Unfinished Tales": {
             "available": 3,
             "author": "J.R.R. Tolkien",
-            "pages": 472
+            "pages": 472,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Something Wicked This Way Comes": {
             "available": 3,
             "author": "Ray Bradbury",
-            "pages": 293
+            "pages": 293,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Martian Chronicles": {
             "available": 5,
             "author": "Ray Bradbury",
-            "pages": 256
+            "pages": 256,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Island": {
             "available": 2,
             "author": "Aldous Huxley",
-            "pages": 354
+            "pages": 354,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Point Counter Point": {
             "available": 3,
             "author": "Aldous Huxley",
-            "pages": 432
+            "pages": 432,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Sense and Sensibility": {
             "available": 4,
             "author": "Jane Austen",
-            "pages": 409
+            "pages": 409,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Emma": {
             "available": 5,
             "author": "Jane Austen",
-            "pages": 474
+            "pages": 474,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Franny and Zooey": {
             "available": 3,
             "author": "J.D. Salinger",
-            "pages": 201
+            "pages": 201,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Nine Stories": {
             "available": 2,
             "author": "J.D. Salinger",
-            "pages": 198
+            "pages": 198,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Count Zero": {
             "available": 4,
             "author": "William Gibson",
-            "pages": 256
+            "pages": 256,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Mona Lisa Overdrive": {
             "available": 3,
             "author": "William Gibson",
-            "pages": 308
+            "pages": 308,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Foundation and Empire": {
             "available": 5,
             "author": "Isaac Asimov",
-            "pages": 247
+            "pages": 247,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Second Foundation": {
             "available": 4,
             "author": "Isaac Asimov",
-            "pages": 250
+            "pages": 250,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Last Man": {
             "available": 2,
             "author": "Mary Shelley",
-            "pages": 470
+            "pages": 470,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Lair of the White Worm": {
             "available": 3,
             "author": "Bram Stoker",
-            "pages": 192
+            "pages": 192,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "It": {
             "available": 4,
             "author": "Stephen King",
-            "pages": 1138
+            "pages": 1138,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Misery": {
             "available": 5,
             "author": "Stephen King",
-            "pages": 310
+            "pages": 310,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Speaker for the Dead": {
             "available": 4,
             "author": "Orson Scott Card",
-            "pages": 415
+            "pages": 415,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "Xenocide": {
             "available": 3,
             "author": "Orson Scott Card",
-            "pages": 592
+            "pages": 592,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Restaurant at the End of the Universe": {
             "available": 6,
             "author": "Douglas Adams",
-            "pages": 250
+            "pages": 250,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Idiot": {
             "available": 3,
             "author": "Fyodor Dostoevsky",
-            "pages": 656
+            "pages": 656,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
         },
         "The Iliad": {
             "available": 4,
             "author": "Homer",
-            "pages": 683
+            "pages": 683,
+            "duration_mins": "N/A",
+            "file_size_mb": "N/A",
+            "type": "book"
+        },
+        "The_Cyber_Sentinel": {
+            "available": 14,
+            "author": "Marcus Vance",
+            "pages": 342,
+            "duration_mins": "N/A",
+            "file_size_mb": 4.2,
+            "type": "ebook"
+        },
+        "Echoes_of_the_Void": {
+            "available": 8,
+            "author": "Elena Rostova",
+            "pages": 289,
+            "duration_mins": "N/A",
+            "file_size_mb": 3.1,
+            "type": "ebook"
+        },
+        "Python_Data_Mastery": {
+            "available": 25,
+            "author": "Dr. Alan Turing",
+            "pages": 512,
+            "duration_mins": "N/A",
+            "file_size_mb": 12.8,
+            "type": "ebook"
+        },
+        "Beneath_Ashen_Skies": {
+            "available": 6,
+            "author": "Sarah Jenkins",
+            "pages": 401,
+            "duration_mins": "N/A",
+            "file_size_mb": 4.9,
+            "type": "ebook"
+        },
+        "The_Algorithm_Design": {
+            "available": 19,
+            "author": "Lee Chang",
+            "pages": 620,
+            "duration_mins": "N/A",
+            "file_size_mb": 15.4,
+            "type": "ebook"
+        },
+        "Whispers_in_the_Code": {
+            "available": 11,
+            "author": "Devon Blake",
+            "pages": 265,
+            "duration_mins": "N/A",
+            "file_size_mb": 2.8,
+            "type": "ebook"
+        },
+        "Shadows_of_Neo_Tokyo": {
+            "available": 3,
+            "author": "Kenji Sato",
+            "pages": 378,
+            "duration_mins": "N/A",
+            "file_size_mb": 5.0,
+            "type": "ebook"
+        },
+        "Digital_Marketing_101": {
+            "available": 50,
+            "author": "Emma Watson",
+            "pages": 195,
+            "duration_mins": "N/A",
+            "file_size_mb": 8.2,
+            "type": "ebook"
+        },
+        "The_Quantum_Paradox": {
+            "available": 9,
+            "author": "Niels Bohr",
+            "pages": 430,
+            "duration_mins": "N/A",
+            "file_size_mb": 6.1,
+            "type": "ebook"
+        },
+        "Cryptocurrency_Secrets": {
+            "available": 33,
+            "author": "Satoshi Nakamoto",
+            "pages": 150,
+            "duration_mins": "N/A",
+            "file_size_mb": 3.5,
+            "type": "ebook"
+        },
+        "Stellar_Voyage_2150": {
+            "available": 7,
+            "author": "Arthur Clarke",
+            "pages": 310,
+            "duration_mins": "N/A",
+            "file_size_mb": 3.9,
+            "type": "ebook"
+        },
+        "Recipes_for_the_Digital_Chef": {
+            "available": 15,
+            "author": "Gordon Ramsay",
+            "pages": 220,
+            "duration_mins": "N/A",
+            "file_size_mb": 22.1,
+            "type": "ebook"
+        },
+        "The_Mindset_Shift": {
+            "available": 42,
+            "author": "Carol Dweck",
+            "pages": 280,
+            "duration_mins": "N/A",
+            "file_size_mb": 2.5,
+            "type": "ebook"
+        },
+        "Legends_of_the_Lost_Grid": {
+            "available": 5,
+            "author": "Tracer Bullet",
+            "pages": 395,
+            "duration_mins": "N/A",
+            "file_size_mb": 4.7,
+            "type": "ebook"
+        },
+        "Minimalist_Living_Guide": {
+            "available": 28,
+            "author": "Marie Kondo",
+            "pages": 175,
+            "duration_mins": "N/A",
+            "file_size_mb": 1.9,
+            "type": "ebook"
+        },
+        "The_AI_Revolution": {
+            "available": 12,
+            "author": "Sam Altman",
+            "pages": 335,
+            "duration_mins": "N/A",
+            "file_size_mb": 5.3,
+            "type": "ebook"
+        },
+        "Chronicles_of_Elidon": {
+            "available": 4,
+            "author": "J.R.R. Tolkien",
+            "pages": 580,
+            "duration_mins": "N/A",
+            "file_size_mb": 7.2,
+            "type": "ebook"
+        },
+        "Cyberpunk_Dreams": {
+            "available": 16,
+            "author": "William Gibson",
+            "pages": 320,
+            "duration_mins": "N/A",
+            "file_size_mb": 4.0,
+            "type": "ebook"
+        },
+        "UX_Design_Fundamentals": {
+            "available": 22,
+            "author": "Don Norman",
+            "pages": 245,
+            "duration_mins": "N/A",
+            "file_size_mb": 18.6,
+            "type": "ebook"
+        },
+        "The_Startup_Blueprint": {
+            "available": 30,
+            "author": "Eric Ries",
+            "pages": 290,
+            "duration_mins": "N/A",
+            "file_size_mb": 3.2,
+            "type": "ebook"
+        },
+        "Becoming_Audiobook": {
+            "available": 7,
+            "author": "Michelle Obama",
+            "pages": "N/A",
+            "duration_mins": 1140,
+            "file_size_mb": 180.5,
+            "type": "audiobook"
+        },
+        "Atomic_Habits_Audiobook": {
+            "available": 12,
+            "author": "James Clear",
+            "pages": "N/A",
+            "duration_mins": 320,
+            "file_size_mb": 75.2,
+            "type": "audiobook"
+        },
+        "Sapiens_Audiobook": {
+            "available": 5,
+            "author": "Yuval Noah Harari",
+            "pages": "N/A",
+            "duration_mins": 912,
+            "file_size_mb": 150.0,
+            "type": "audiobook"
         }
     },
     "members": {}
