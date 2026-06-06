@@ -1,1 +1,141 @@
+Books,Author,Available,Pages,Duration_mins,File_size_mb,Type
 
+1984,George Orwell,5,328,N/A,N/A,book
+
+To Kill a Mockingbird,Harper Lee,3,281,N/A,N/A,book
+
+The Great Gatsby,F. Scott Fitzgerald,2,180,N/A,N/A,book
+
+The Hobbit,J.R.R. Tolkien,6,310,N/A,N/A,book
+
+Fahrenheit 451,Ray Bradbury,3,156,N/A,N/A,book
+
+Brave New World,Aldous Huxley,4,268,N/A,N/A,book
+
+Pride and Prejudice,Jane Austen,5,279,N/A,N/A,book
+
+The Catcher in the Rye,J.D. Salinger,2,234,N/A,N/A,book
+
+The Lord of the Rings,J.R.R. Tolkien,3,1178,N/A,N/A,book
+
+Animal Farm,George Orwell,4,112,N/A,N/A,book
+
+Neuromancer,William Gibson,3,271,N/A,N/A,book
+
+Foundation,Isaac Asimov,5,255,N/A,N/A,book
+
+Frankenstein,Mary Shelley,3,280,N/A,N/A,book
+
+Dracula,Bram Stoker,2,418,N/A,N/A,book
+
+The Shining,Stephen King,4,447,N/A,N/A,book
+
+Ender's Game,Orson Scott Card,4,324,N/A,N/A,book
+
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,6,193,N/A,N/A,book
+
+Crime and Punishment,Fyodor Dostoevsky,2,671,N/A,N/A,book
+
+The Odyssey,Homer,3,541,N/A,N/A,book
+
+Burmese Days,George Orwell,4,272,N/A,N/A,book
+
+Homage to Catalonia,George Orwell,3,242,N/A,N/A,book
+
+Go Set a Watchman,Harper Lee,2,278,N/A,N/A,book
+
+Tender Is the Night,F. Scott Fitzgerald,3,315,N/A,N/A,book
+
+This Side of Paradise,F. Scott Fitzgerald,4,304,N/A,N/A,book
+
+Dune Messiah,Frank Herbert,5,256,N/A,N/A,book
+
+Children of Dune,Frank Herbert,3,444,N/A,N/A,book
+
+The Silmarillion,J.R.R. Tolkien,4,365,N/A,N/A,book
+
+Unfinished Tales,J.R.R. Tolkien,3,472,N/A,N/A,book
+
+Something Wicked This Way Comes,Ray Bradbury,3,293,N/A,N/A,book
+
+The Martian Chronicles,Ray Bradbury,5,256,N/A,N/A,book
+
+Island,Aldous Huxley,2,354,N/A,N/A,book
+
+Point Counter Point,Aldous Huxley,3,432,N/A,N/A,book
+
+Sense and Sensibility,Jane Austen,4,409,N/A,N/A,book
+
+Emma,Jane Austen,5,474,N/A,N/A,book
+
+Franny and Zooey,J.D. Salinger,3,201,N/A,N/A,book
+
+Nine Stories,J.D. Salinger,2,198,N/A,N/A,book
+
+Count Zero,William Gibson,4,256,N/A,N/A,book
+
+Mona Lisa Overdrive,William Gibson,3,308,N/A,N/A,book
+
+Foundation and Empire,Isaac Asimov,5,247,N/A,N/A,book
+
+Second Foundation,Isaac Asimov,4,250,N/A,N/A,book
+
+The Last Man,Mary Shelley,2,470,N/A,N/A,book
+
+The Lair of the White Worm,Bram Stoker,3,192,N/A,N/A,book
+
+It,Stephen King,4,1138,N/A,N/A,book
+
+Misery,Stephen King,5,310,N/A,N/A,book
+
+Speaker for the Dead,Orson Scott Card,4,415,N/A,N/A,book
+
+Xenocide,Orson Scott Card,3,592,N/A,N/A,book
+
+The Restaurant at the End of the Universe,Douglas Adams,6,250,N/A,N/A,book
+
+The Idiot,Fyodor Dostoevsky,3,656,N/A,N/A,book
+
+The Iliad,Homer,4,683,N/A,N/A,book
+
+The_Cyber_Sentinel,Marcus Vance,14,342,N/A,4.2,ebook
+
+Echoes_of_the_Void,Elena Rostova,8,289,N/A,3.1,ebook
+
+Python_Data_Mastery,Dr. Alan Turing,25,512,N/A,12.8,ebook
+
+Beneath_Ashen_Skies,Sarah Jenkins,6,401,N/A,4.9,ebook
+
+The_Algorithm_Design,Lee Chang,19,620,N/A,15.4,ebook
+
+Whispers_in_the_Code,Devon Blake,11,265,N/A,2.8,ebook
+
+Shadows_of_Neo_Tokyo,Kenji Sato,3,378,N/A,5.0,ebook
+
+Digital_Marketing_101,Emma Watson,50,195,N/A,8.2,ebook
+
+The_Quantum_Paradox,Niels Bohr,9,430,N/A,6.1,ebook
+
+Cryptocurrency_Secrets,Satoshi Nakamoto,33,150,N/A,3.5,ebook
+
+Stellar_Voyage_2150,Arthur Clarke,7,310,N/A,3.9,ebook
+
+Recipes_for_the_Digital_Chef,Gordon Ramsay,15,220,N/A,22.1,ebook
+
+The_Mindset_Shift,Carol Dweck,42,280,N/A,2.5,ebook
+
+Legends_of_the_Lost_Grid,Tracer Bullet,5,395,N/A,4.7,ebook
+
+Minimalist_Living_Guide,Marie Kondo,28,175,N/A,1.9,ebook
+
+The_AI_Revolution,Sam Altman,12,335,N/A,5.3,ebook
+
+Chronicles_of_Elidon,J.R.R. Tolkien,4,580,N/A,7.2,ebook
+
+Cyberpunk_Dreams,William Gibson,16,320,N/A,4.0,ebook
+
+UX_Design_Fundamentals,Don Norman,22,245,N/A,18.6,ebook
+
+The_Startup_Blueprint,Eric Ries,30,290,N/A,3.2,ebook
+
+Becoming_Audiobook,Michelle Obama,7,N/A,1140,180.5,audiobook
