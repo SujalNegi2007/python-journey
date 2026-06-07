@@ -21,6 +21,7 @@ My daily Python learning projects — one script per day.
 -  Day 16: Library Management System extended — search_by_author(), list_available(), export_to_csv(), CSV re-import (Done)
 -  Day 17: Library Management System with OOP — inheritance & polymorphism, EBook & AudioBook subclasses, display_clean_data() (Done)
 -  Day 18: Library Management System with OOP — dunder methods (__str__, __repr__, __lt__), display_sorted() using object comparison (Done)
+-  Day 19: Decorators — @timer, @retry(n) decorator factory, @log_calls with logging module (Done)
 
 ## Topics Covered
 - Variables & Data Types (Completed)
@@ -53,3 +54,8 @@ My daily Python learning projects — one script per day.
 - __repr__ — developer/debug output (Completed)
 - __lt__ — object comparison for sorted() (Completed)
 - Method Overriding via Inheritance (Completed)
+- Decorators (Completed)
+- functools.wraps (Completed)
+- Decorator Factory pattern (Completed)
+- logging module — basicConfig, logging.info (Completed)
+- 
