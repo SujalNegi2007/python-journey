@@ -1,0 +1,5 @@
+2026-06-07 11:11:37,433 - Function Name that was called: [greet]
+Arguments Were: [(), {}]
+The value it returned: [Hello]
+The Total time taken for the function to execute: [2.384185791015625e-06]
+
