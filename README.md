@@ -22,6 +22,8 @@ My daily Python learning projects — one script per day.
 -  Day 17: Library Management System with OOP — inheritance & polymorphism, EBook & AudioBook subclasses, display_clean_data() (Done)
 -  Day 18: Library Management System with OOP — dunder methods (__str__, __repr__, __lt__), display_sorted() using object comparison (Done)
 -  Day 19: Decorators — @timer, @retry(n) decorator factory, @log_calls with logging module (Done)
+-  Day 20: Generators & Iterators — yield, lazy evaluation, generator pipelines (Done)
+-  Day 21: collections, datetime & type hints — Counter, defaultdict, deque, strptime, full type hints, log analyzer (Done)
 
 ## Topics Covered
 - Variables & Data Types (Completed)
