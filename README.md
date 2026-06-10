@@ -60,4 +60,8 @@ My daily Python learning projects — one script per day.
 - functools.wraps (Completed)
 - Decorator Factory pattern (Completed)
 - logging module — basicConfig, logging.info (Completed)
-- 
+- Generators & Iterators (Completed)
+- yield keyword (Completed)
+- collections — Counter, defaultdict, deque (Completed)
+- datetime — strptime, strftime, timedelta (Completed)
+- Type Hints (Completed)
