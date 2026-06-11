@@ -3,27 +3,28 @@
 My daily Python learning projects — one script per day.
 
 ## Progress
--  Day 1: Rock Paper Scissors game (Done and updated on day 5)
--  Day 2: Word Analyzer (Done)
--  Day 3: Grocery List Manager (Done)
--  Day 4: Tuples & Sets (Done)
--  Day 5: Contact Book (Done)
--  Day 6: Grade Calculator (Done)
--  Day 7: FizzBuzz (Done)
--  Day 8: 20 Small functions (Done)
--  Day 9: Multi-Function Calculator(Done)
--  Day 10: List Comprehensions exercies (Done)
--  Day 11: File Handling & Log Writer & Student Database System with CSV & Pandas (Done)
--  Day 12: Error Handling — try/except/finally + hardened Student Database (Done)
--  Day 13: Error Handling — Grade Manager with full error handling, repair_file() & logging (Done)
--  Day 14: Modules, Packages & pathlib — Grade Manager refactored into a package with pathlib (Done)
--  Day 15: Library Management System with OOP — classes, __init__, self, JSON persistence (Done)
--  Day 16: Library Management System extended — search_by_author(), list_available(), export_to_csv(), CSV re-import (Done)
--  Day 17: Library Management System with OOP — inheritance & polymorphism, EBook & AudioBook subclasses, display_clean_data() (Done)
--  Day 18: Library Management System with OOP — dunder methods (__str__, __repr__, __lt__), display_sorted() using object comparison (Done)
--  Day 19: Decorators — @timer, @retry(n) decorator factory, @log_calls with logging module (Done)
--  Day 20: Generators & Iterators — yield, lazy evaluation, generator pipelines (Done)
--  Day 21: collections, datetime & type hints — Counter, defaultdict, deque, strptime, full type hints, log analyzer (Done)
+-  Day 1: Rock Paper Scissors game
+-  Day 2: Word Analyzer 
+-  Day 3: Grocery List Manager 
+-  Day 4: Tuples & Sets 
+-  Day 5: Contact Book 
+-  Day 6: Grade Calculator 
+-  Day 7: FizzBuzz 
+-  Day 8: 20 Small functions 
+-  Day 9: Multi-Function Calculator
+-  Day 10: List Comprehensions exercies 
+-  Day 11: File Handling & Log Writer & Student Database System with CSV & Pandas 
+-  Day 12: Error Handling — try/except/finally + hardened Student Database
+-  Day 13: Error Handling — Grade Manager with full error handling, repair_file() & logging 
+-  Day 14: Modules, Packages & pathlib — Grade Manager refactored into a package with pathlib 
+-  Day 15: Library Management System with OOP — classes, __init__, self, JSON persistence 
+-  Day 16: Library Management System extended — search_by_author(), list_available(), export_to_csv(), CSV re-import 
+-  Day 17: Library Management System with OOP — inheritance & polymorphism, EBook & AudioBook subclasses, display_clean_data() 
+-  Day 18: Library Management System with OOP — dunder methods (__str__, __repr__, __lt__), display_sorted() using object comparison 
+-  Day 19: Decorators — @timer, @retry(n) decorator factory, @log_calls with logging module 
+-  Day 20: Generators & Iterators — yield, lazy evaluation, generator pipelines 
+-  Day 21: collections, datetime & type hints — Counter, defaultdict, deque, strptime, full type hints, log analyzer 
+-  Day 22: NumPy — arrays, shapes, reshape, flatten, transpose, broadcasting, indexing, slicing
 
 ## Topics Covered
 - Variables & Data Types (Completed)
