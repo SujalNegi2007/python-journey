@@ -1,6 +1,6 @@
 # Python Journey
 
-My daily Python learning projects — one script per day.
+My daily Python learning projects.
 
 ## Progress
 -  Day 1: Rock Paper Scissors game
