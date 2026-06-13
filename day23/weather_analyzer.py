@@ -25,12 +25,6 @@ def yes_no()->bool:
 
 times = 68
 
-for i in range(cities):
-    print("+" + "-"*times + "+" + "\n" +
-          "|" + f"{city_name[i]}'s Temperature          : {temperature[i]}°C ".center(times) + "|" + "\n" +
-          "|" + f"{city_name[i]}'s Rain Chance          : {rain_chance[i]}%  ".center(times) + "|" + "\n" +
-          "+" + "-"*times + "+" + "\n")
-
 def menu_screen():
     print("+" + "-"*times + "+" + "\n" +
           "|" + "To Check The Hottest City                    : Enter [1]".center(times) + "|" + "\n" +
@@ -77,7 +71,7 @@ while True:
             elif user_input == 6:
                 print(f"Average Rain Fall Of Cities: {np.mean(rain_chance)}")
             elif user_input == 7:
-                danger_normal = np.where(temperature > 40 | temperature < 5, "Danger Zone", "Normal Zone")
+                danger_normal = np.where((temperature > 40) | (temperature < 5), "Danger Zone", "Normal Zone")
                 for i in range(cities):
                     print("+" + "-"*times + "+" + "\n" +
                           "|" + f"{city_name[i]}'s Temperature          : {temperature[i]}°C ".center(times) + "|" + "\n" +
@@ -87,8 +81,6 @@ while True:
             else:
                 print("Thank You For Visiting.")
         else:
-            print("Only Options are b/w 1 to 5.")
-    except Exception as e:
-        print(e)
-    # except ValueError:
-    #     print("Only Integers Are Allowed")
+            print("Only Options are b/w 1 to 8.")
+    except ValueError:
+        print("Only Integers Are Allowed")
