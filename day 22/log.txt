@@ -1,0 +1,6 @@
+[13/June/2026 18:24:11]: Log File Created.
+[13/June/2026 18:24:16]: User Chose Option 1 and saw the average of students.
+[13/June/2026 18:24:19]: User Chose Option 2 and saw the average of subjects.
+[13/June/2026 18:24:22]: User Chose Option 3 and saw the highest score.
+[13/June/2026 18:24:24]: User Chose Option 4 and saw the lowest score.
+[13/June/2026 18:24:27]: User Chose Option 5 and exited the system.
