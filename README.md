@@ -25,6 +25,7 @@ My daily Python learning projects.
 -  Day 20: Generators & Iterators — yield, lazy evaluation, generator pipelines 
 -  Day 21: collections, datetime & type hints — Counter, defaultdict, deque, strptime, full type hints, log analyzer 
 -  Day 22: NumPy — arrays, shapes, reshape, flatten, transpose, broadcasting, indexing, slicing
+-  Day 23: Weather Analyzer CLI — NumPy operations (argmax, argmin, np.where, mean), zone classification, timer context manager + logging
 
 ## Topics Covered
 - Variables & Data Types (Completed)
@@ -72,3 +73,7 @@ My daily Python learning projects.
 - Array math & broadcasting (Completed)
 - Boolean indexing & filtering (Completed)
 - np.random (Completed)
+- np.where — conditional array logic (Completed)
+- np.argmax / np.argmin (Completed)
+- np.mean — aggregate statistics (Completed)
+- Context Managers — __enter__/__exit__ (Completed)
