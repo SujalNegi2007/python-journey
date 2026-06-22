@@ -26,6 +26,8 @@ My daily Python learning projects. Every day new topics learnt.
 -  Day 21: collections, datetime & type hints — Counter, defaultdict, deque, strptime, full type hints, log analyzer 
 -  Day 22: NumPy — arrays, shapes, reshape, flatten, transpose, broadcasting, indexing, slicing
 -  Day 23: Weather Analyzer CLI — NumPy operations (argmax, argmin, np.where, mean), zone classification, timer context manager + logging
+-  Day 24: Pandas — indexing & filtering basics
+-  Day 25: CLI Data Explorer — Pandas filtering conditions, .loc[], .iloc[], and unique value exploration
 
 ## Topics Covered
 - Variables & Data Types (Completed)
@@ -77,3 +79,7 @@ My daily Python learning projects. Every day new topics learnt.
 - np.argmax / np.argmin (Completed)
 - np.mean — aggregate statistics (Completed)
 - Context Managers — __enter__/__exit__ (Completed)
+- Pandas Indexing — .loc[] and .iloc[] structural differences (Completed)
+- Pandas Boolean Filtering & Multi-Conditions — combining logic with & and | (Completed)
+- Pandas Inspection — .value_counts(), .unique(), and .nunique() mechanics (Completed)
+- Pandas Sorting — .sort_values() with ascending/descending parameters (Completed)
