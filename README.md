@@ -30,56 +30,50 @@ My daily Python learning projects. Every day new topics learnt.
 -  Day 25: CLI Data Explorer — Pandas filtering conditions, .loc[], .iloc[], and unique value exploration
 
 ## Topics Covered
-- Variables & Data Types (Completed)
-- Strings & Methods (Completed)
-- Lists (Completed)
-- Tuples (Completed)
-- Set (Completed)
-- Dictionaries (Completed)
-- If/elif/else (Completed)
-- For & While Loops (Completed)
-- Functions (Completed)
-- *args and **kwargs (Completed)
-- List Comprehensions (Completed)
-- File Handling (Read, Write, Append) (Completed)
-- CSV File Handling (Completed)
-- Pandas Basics - read_csv, groupby, dropna, idxmax, idxmin (Completed)
-- Clousers (completed)
-- Lambda (map, filter, reduce) (completed)
-- Exception Handling (Completed)
-- Error Handling — try/except/finally, Exception types, ValueError, FileNotFoundError (Completed)
-- Modules & Packages (Completed)
-- pathlib (Completed)
-- json config loading (Completed)
-- OOP — classes & objects (Completed)
-- __init__ & instance attributes (Completed)
-- self keyword (Completed)
-- Inheritance & Polymorphism (Completed)
-- Dunder Methods / Magic Methods (Completed)
-- __str__ — printable object output (Completed)
-- __repr__ — developer/debug output (Completed)
-- __lt__ — object comparison for sorted() (Completed)
-- Method Overriding via Inheritance (Completed)
-- Decorators (Completed)
-- functools.wraps (Completed)
-- Decorator Factory pattern (Completed)
-- logging module — basicConfig, logging.info (Completed)
-- Generators & Iterators (Completed)
-- yield keyword (Completed)
-- collections — Counter, defaultdict, deque (Completed)
-- datetime — strptime, strftime, timedelta (Completed)
-- Type Hints (Completed)
-- NumPy — ndarray, shape, dtype (Completed)
-- reshape & flatten (Completed)
-- transpose (Completed)
-- Array math & broadcasting (Completed)
-- Boolean indexing & filtering (Completed)
-- np.random (Completed)
-- np.where — conditional array logic (Completed)
-- np.argmax / np.argmin (Completed)
-- np.mean — aggregate statistics (Completed)
-- Context Managers — __enter__/__exit__ (Completed)
-- Pandas Indexing — .loc[] and .iloc[] structural differences (Completed)
-- Pandas Boolean Filtering & Multi-Conditions — combining logic with & and | (Completed)
-- Pandas Inspection — .value_counts(), .unique(), and .nunique() mechanics (Completed)
-- Pandas Sorting — .sort_values() with ascending/descending parameters (Completed)
+
+### Core Python
+- Variables & Data Types
+- Strings & Methods
+- Lists, Tuples, Sets, Dictionaries
+- If/elif/else, For & While Loops
+- Functions, `*args` & `**kwargs`
+- List Comprehensions
+- Lambda (`map`, `filter`, `reduce`)
+- Closures
+
+### File & Data Handling
+- File Handling (Read, Write, Append)
+- CSV File Handling
+- `pathlib`
+- JSON config loading
+
+### Error Handling & Modules
+- Exception Handling — `try`/`except`/`finally`, `ValueError`, `FileNotFoundError`
+- Modules & Packages
+
+### OOP
+- Classes & Objects, `__init__`, instance attributes, `self` keyword
+- Inheritance, Polymorphism & Method Overriding
+- Dunder Methods — `__str__`, `__repr__`, `__lt__`
+
+### Advanced Python
+- Decorators, `functools.wraps`, Decorator Factory pattern
+- Generators & Iterators, `yield` keyword
+- Context Managers — `__enter__`/`__exit__`
+- Type Hints
+- `logging` module — `basicConfig`, `logging.info`
+- `collections` — `Counter`, `defaultdict`, `deque`
+- `datetime` — `strptime`, `strftime`, `timedelta`
+
+### NumPy
+- `ndarray`, `shape`, `dtype`, `reshape`, `flatten`, `transpose`
+- Array math & broadcasting
+- Boolean indexing & filtering
+- `np.random`, `np.where`, `np.argmax`, `np.argmin`, `np.mean`
+
+### Pandas
+- `read_csv`, `.head()`, `.info()`, `.describe()`, `.shape`, `.dtypes`
+- Indexing — `.loc[]` & `.iloc[]`
+- Boolean filtering & multi-conditions (`&`, `|`)
+- `.value_counts()`, `.unique()`, `.nunique()`
+- `.sort_values()`, `groupby`, `dropna`, `idxmax`, `idxmin`
