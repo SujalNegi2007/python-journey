@@ -77,3 +77,4 @@ My daily Python learning projects. Every day new topics learnt.
 - Boolean filtering & multi-conditions (`&`, `|`)
 - `.value_counts()`, `.unique()`, `.nunique()`
 - `.sort_values()`, `groupby`, `dropna`, `idxmax`, `idxmin`
+- `.groupby().agg()`, `.pivot_table()`. `.fillna()`, `.dropna()`, `.duplicated()`, `.drop_duplicates()`
