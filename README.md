@@ -80,4 +80,5 @@ My daily Python learning projects. Every day new topics learnt.
 - `.groupby().agg()`, `.pivot_table()`. `.fillna()`, `.dropna()`, `.duplicated()`, `.drop_duplicates()`
 
 ### Matplotlib
-- `show`, `title`, `grid`, `legend`, `plot`
+- `show`, `title`, `grid`, `legend`, `plot`, `xlabel`, `ylabel`
+- `bar`, `barh`, `reverse`, `style`, `xticks`
