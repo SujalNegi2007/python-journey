@@ -81,4 +81,6 @@ My daily Python learning projects. Every day new topics learnt.
 
 ### Matplotlib
 - `show`, `title`, `grid`, `legend`, `plot`, `xlabel`, `ylabel`
-- `bar`, `barh`, `reverse`, `style`, `xticks`
+- `bar`, `barh`, `reverse`, `style`, `xticks`, `tight_layout`
+- `hist`, `axvline`, `use`, `linewidth`, `color`
+- 
