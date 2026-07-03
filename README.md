@@ -83,4 +83,4 @@ My daily Python learning projects. Every day new topics learnt.
 - `show`, `title`, `grid`, `legend`, `plot`, `xlabel`, `ylabel`
 - `bar`, `barh`, `reverse`, `style`, `xticks`, `tight_layout`
 - `hist`, `axvline`, `use`, `linewidth`, `color`
-- `scatter`, `s`, `c`, `edgecolor`, `marker`, `alpha`, `cmap`
+- `scatter`, `s`, `c`, `edgecolor`, `marker`, `alpha`, `cmap`, `colorbar`, `set_label`, `xscale`, `yscale`
