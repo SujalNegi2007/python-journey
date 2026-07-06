@@ -28,6 +28,7 @@ My daily Python learning projects. Every day new topics learnt.
 -  Day 23: Weather Analyzer CLI — NumPy operations (argmax, argmin, np.where, mean), zone classification, timer context manager + logging
 -  Day 24: Pandas — indexing & filtering basics
 -  Day 25: CLI Data Explorer — Pandas filtering conditions, .loc[], .iloc[], and unique value exploration
+-  Day 26: CSV Data Cleaner
 
 ## Topics Covered
 
