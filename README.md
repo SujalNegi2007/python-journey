@@ -85,3 +85,6 @@ My daily Python learning projects. Every day new topics learnt.
 - `bar`, `barh`, `reverse`, `style`, `xticks`, `tight_layout`
 - `hist`, `axvline`, `use`, `linewidth`, `color`
 - `scatter`, `s`, `c`, `edgecolor`, `marker`, `alpha`, `cmap`, `colorbar`, `set_label`, `xscale`, `yscale`
+
+### Seaborn
+- `set_theme`, `load_dataset`, `relplot`, `displot`, `multiple`, `hue`, `kde`, `data`
