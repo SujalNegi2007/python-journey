@@ -22,12 +22,12 @@ My daily Python learning projects. Every day new topics learnt.
 -  Day 17: Library Management System with OOP — inheritance & polymorphism, EBook & AudioBook subclasses, display_clean_data() 
 -  Day 18: Library Management System with OOP — dunder methods (__str__, __repr__, __lt__), display_sorted() using object comparison 
 -  Day 19: Decorators — @timer, @retry(n) decorator factory, @log_calls with logging module 
--  Day 20: Generators & Iterators — yield, lazy evaluation, generator pipelines 
--  Day 21: collections, datetime & type hints — Counter, defaultdict, deque, strptime, full type hints, log analyzer 
+-  Day 20: Generators & Iterators — yield, lazy evaluation, generator pipelines
+-  Day 21: collections, datetime & type hints — Counter, defaultdict, deque, strptime, full type hints, log analyzer
 -  Day 22: NumPy — arrays, shapes, reshape, flatten, transpose, broadcasting, indexing, slicing
 -  Day 23: Weather Analyzer CLI — NumPy operations (argmax, argmin, np.where, mean), zone classification, timer context manager + logging
 -  Day 24: Pandas — indexing & filtering basics
--  Day 25: CLI Data Explorer — Pandas filtering conditions, .loc[], .iloc[], and unique value exploration
+-  Day 25: CLI Data Explorer — Pandas filtering conditions
 -  Day 26: CSV Data Cleaner
 
 ## Topics Covered
