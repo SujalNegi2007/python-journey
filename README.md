@@ -13,7 +13,7 @@ My daily Python learning projects. Every day new topics learnt.
 -  Day 8: 20 Small functions 
 -  Day 9: Multi-Function Calculator
 -  Day 10: List Comprehensions exercies 
--  Day 11: File Handling & Log Writer & Student Database System with CSV & Pandas 
+-  Day 11: File Handling & Log Writer & Student Database System using CSV & Pandas 
 -  Day 12: Error Handling — try/except/finally + hardened Student Database
 -  Day 13: Error Handling — Grade Manager with full error handling, repair_file() & logging 
 -  Day 14: Modules, Packages & pathlib — Grade Manager refactored into a package with pathlib 
@@ -28,7 +28,7 @@ My daily Python learning projects. Every day new topics learnt.
 -  Day 23: Weather Analyzer CLI — NumPy operations (argmax, argmin, np.where, mean), zone classification, timer context manager + logging
 -  Day 24: Pandas — indexing & filtering basics
 -  Day 25: CLI Data Explorer — Pandas filtering conditions
--  Day 26: CSV Data Cleaner
+-  Day 26: CSV File Data Cleaner
 
 ## Topics Covered
 
