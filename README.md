@@ -88,3 +88,4 @@ My daily Python learning projects. Every day new topics learnt.
 
 ### Seaborn
 - `set_theme`, `load_dataset`, `relplot`, `displot`, `multiple`, `hue`, `kde`, `data`
+- `heatmap`, `annot`, `cbar_kws`
