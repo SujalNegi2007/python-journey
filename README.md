@@ -29,6 +29,10 @@ My daily Python learning projects. Every day new topics learnt.
 -  Day 24: Pandas — indexing & filtering basics
 -  Day 25: CLI Data Explorer — Pandas filtering conditions
 -  Day 26: CSV File Data Cleaner
+-  Day 27: Two Panel Figure using matplotlib
+-  Day 28: 4 week revision
+-  Day 29: Test Analyser using pytest
+-  Day 30: Type hints — advanced + mypy
 
 ## Topics Covered
 
@@ -61,7 +65,7 @@ My daily Python learning projects. Every day new topics learnt.
 - Decorators, `functools.wraps`, Decorator Factory pattern
 - Generators & Iterators, `yield` keyword
 - Context Managers — `__enter__`/`__exit__`
-- Type Hints
+- Type Hints, mypy, pytest
 - `logging` module — `basicConfig`, `logging.info`
 - `collections` — `Counter`, `defaultdict`, `deque`
 - `datetime` — `strptime`, `strftime`, `timedelta`
