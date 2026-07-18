@@ -3,7 +3,7 @@ import json
 import utils
 import random
 import csv
-import book_types
+import book_type
 
 Warehouse = "Warehouse.json"
 
@@ -160,11 +160,11 @@ class library:
         b = list(self.a["books"].keys())
         for i in range(len(b)):
             if self.a["books"][b[i]]["type"] == "book":
-                book_types.book(self.a["books"][b[i]]["author"], self.a["books"][b[i]]["available"], b[i], self.a["books"][b[i]]["pages"]).display_info()
+                book_type.book(self.a["books"][b[i]]["author"], self.a["books"][b[i]]["available"], b[i], self.a["books"][b[i]]["pages"]).display_info()
             elif self.a["books"][b[i]]["type"] == "ebook":
-                book_types.ebook(self.a["books"][b[i]]["author"], self.a["books"][b[i]]["available"], b[i], self.a["books"][b[i]]["pages"], self.a["books"][b[i]]["file_size_mb"]).display_info()
+                book_type.ebook(self.a["books"][b[i]]["author"], self.a["books"][b[i]]["available"], b[i], self.a["books"][b[i]]["pages"], self.a["books"][b[i]]["file_size_mb"]).display_info()
             elif self.a["books"][b[i]]["type"] == "audiobook":
-                book_types.audiobook(self.a["books"][b[i]]["author"], self.a["books"][b[i]]["available"], b[i], self.a["books"][b[i]]["file_size_mb"], self.a["books"][b[i]]["duration_mins"]).display_info()
+                book_type.audiobook(self.a["books"][b[i]]["author"], self.a["books"][b[i]]["available"], b[i], self.a["books"][b[i]]["file_size_mb"], self.a["books"][b[i]]["duration_mins"]).display_info()
 
 
 lib = library()
