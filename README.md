@@ -33,6 +33,7 @@ My daily Python learning projects. Every day new topics learnt.
 -  Day 28: 4 week revision
 -  Day 29: Test Analyser using pytest
 -  Day 30: Type hints — advanced + mypy
+-  Day 31: Mini EDA Project — Titanic
 
 ## Topics Covered
 
