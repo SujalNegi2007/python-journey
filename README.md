@@ -2,7 +2,7 @@
 
 My daily Python learning projects. Every day new topics learnt.
 
-## Progress
+## Progress :
 
 * Day 1: Rock Paper Scissors game
 * Day 2: Word Analyzer
