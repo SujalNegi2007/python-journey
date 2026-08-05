@@ -1,7 +1,6 @@
 # Python Journey
 
-My daily Python learning projects. 
-Every day new topics learnt.
+My daily Python learning projects. Every day new topics learnt.
 
 ## Progress :
 
@@ -64,24 +63,25 @@ Every day new topics learnt.
 * Modules & Packages
 
 ### OOP
-* Classes & Objects, `__init__`, instance attributes, `self` keyword
+* Classes & Objects, __init__, instance attributes, self keyword
 * Inheritance, Polymorphism & Method Overriding
-* Dunder Methods — `__str__`, `__repr__`, `__lt__`
+* Dunder Methods — __str__, __repr__, __lt__
 
 ### Advanced Python & Testing
-* Decorators, `functools.wraps`, Decorator Factory pattern
-* Generators & Iterators, `yield` keyword
-* Context Managers — `__enter__`/`__exit__`
+* Decorators, functools.wraps, Decorator Factory pattern
+* Generators & Iterators, yield keyword
+* Context Managers — __enter__/__exit__
 * Type Hints, mypy, pytest
-* `logging` module — replacing `print()` with structured logs
-* `collections` — Counter, defaultdict, deque
-* `datetime` — strptime, strftime, timedelta
+* logging module — replacing print() with structured logs
+* collections — Counter, defaultdict, deque
+* datetime — strptime, strftime, timedelta
 
 ### DevOps, Tooling & Environment
-* **YAML**: PyYAML, `yaml.safe_load()`, `yaml.dump()`
-* **Bash Scripting**: `chmod +x`, `mkdir -p`, `grep`, pipes (`|`), shell scripts
-* **Virtual Environments**: `python -m venv`, environment activation
-* **Environment Variables**: `python-dotenv`, `load_dotenv()`, `os.getenv()`
+* YAML: PyYAML, yaml.safe_load(), yaml.dump()
+* Bash Scripting: chmod +x, mkdir -p, grep, pipes (|), shell scripts
+* Virtual Environments: python -m venv, environment activation
+* Environment Variables: python-dotenv, load_dotenv(), os.getenv()
+* Git & Version Control: Feature branches, merging (`main` → `feature` → `merge` → `delete`), `git log --oneline --graph`, `git diff`, `git stash`, `git revert`
 
 ### NumPy
 * ndarray, shape, dtype, reshape, flatten, transpose
@@ -90,12 +90,12 @@ Every day new topics learnt.
 * np.random, np.where, np.argmax, np.argmin, np.mean
 
 ### Pandas
-* `read_csv`, `.head()`, `.info()`, `.describe()`, `.shape`, `.dtypes`
-* Indexing — `.loc[]` & `.iloc[]`
-* Boolean filtering & multi-conditions (`&`, `|`)
-* `.value_counts()`, `.unique()`, `.nunique()`
-* `.sort_values()`, groupby, dropna, idxmax, idxmin
-* `.groupby().agg()`, `.pivot_table()`, `.fillna()`, `.dropna()`, `.duplicated()`, `.drop_duplicates()`
+* read_csv, .head(), .info(), .describe(), .shape, .dtypes
+* Indexing — .loc[] & .iloc[]
+* Boolean filtering & multi-conditions (&, |)
+* .value_counts(), .unique(), .nunique()
+* .sort_values(), groupby, dropna, idxmax, idxmin
+* .groupby().agg(), .pivot_table(), .fillna(), .dropna(), .duplicated(), .drop_duplicates()
 
 ### Matplotlib
 * show, title, grid, legend, plot, xlabel, ylabel, savefig(), subplots
