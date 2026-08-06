@@ -1,6 +1,6 @@
 # Python Journey
 
-My daily Python learning projects. Every day new topics learnt.
+My daily Python learning projects. 
 
 ## Progress :
 
