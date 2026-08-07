@@ -37,6 +37,7 @@ My daily Python learning projects.
 * Day 31: Mini EDA Project — Titanic
 * Day 32: YAML & Bash Scripting — PyYAML, yaml.safe_load(), chmod, grep, pipes & bash automation
 * Day 33: Environment Setup & Logging — venv, python-dotenv, os.getenv() & replacing print() with logging
+* Day 34: Git Branching Workflow — Feature branches, merging, merge conflicts, `git diff`, `git stash`, `git revert` & `git log --oneline --graph`
 
 ---
 
