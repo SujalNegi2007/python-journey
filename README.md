@@ -44,7 +44,7 @@ My daily Python learning projects.
 
 #Topics Covered
 
-#Core Python
+#Core Python:
 -Variables & Data Types
 -Strings & Methods
 -Lists, Tuples, Sets, Dictionaries
@@ -54,22 +54,22 @@ My daily Python learning projects.
 -Lambda (map, filter, reduce)
 -Closures
 
-#File & Data Handling
+#File & Data Handling:
 -File Handling (Read, Write, Append)
 -CSV File Handling
 -pathlib
 -JSON config loading
 
-#Error Handling & Modules
+#Error Handling & Modules:
 -Exception Handling — try/except/finally, ValueError, FileNotFoundError
 -Modules & Packages
 
-#OOP
+#OOP:
 -Classes & Objects, init, instance attributes, self keyword
 -Inheritance, Polymorphism & Method Overriding
 -Dunder Methods — str, repr, lt
 
-#Advanced Python & Testing
+#Advanced Python & Testing:
 -Decorators, functools.wraps, Decorator Factory pattern
 -Generators & Iterators, yield keyword
 -Context Managers — enter/exit
@@ -78,26 +78,26 @@ My daily Python learning projects.
 -collections — Counter, defaultdict, deque
 -datetime — strptime, strftime, timedelta
 
-#DevOps, Tooling & Environment
+#DevOps, Tooling & Environment:
 -YAML: PyYAML, yaml.safe_load(), yaml.dump()
 -Bash Scripting: chmod +x, mkdir -p, grep, pipes (|), shell scripts
 -Virtual Environments: python -m venv, environment activation
 -Environment Variables: python-dotenv, load_dotenv(), os.getenv()
 -Git & Version Control: Feature branches, merging (main → feature → merge → delete), git log --oneline --graph, git diff, git stash, git revert
 
-#APIs & Web Requests
+#APIs & Web Requests:
 -requests library — get(), post()
 -Parsing JSON responses — response.json()
 -Handling status codes
 -Consuming public/free APIs & saving responses to JSON
 
-#NumPy
+#NumPy:
 -ndarray, shape, dtype, reshape, flatten, transpose
 -Array math & broadcasting
 -Boolean indexing & filtering
 -np.random, np.where, np.argmax, np.argmin, np.mean
 
-#Pandas
+#Pandas:
 -read_csv, .head(), .info(), .describe(), .shape, .dtypes
 -Indexing — .loc[] & .iloc[]
 -Boolean filtering & multi-conditions (&, |)
@@ -105,12 +105,12 @@ My daily Python learning projects.
 -.sort_values(), groupby, dropna, idxmax, idxmin
 -.groupby().agg(), .pivot_table(), .fillna(), .dropna(), .duplicated(), .drop_duplicates()
 
-#Matplotlib
+#Matplotlib:
 -show, title, grid, legend, plot, xlabel, ylabel, savefig(), subplots
 -bar, barh, reverse, style, xticks, tight_layout
 -hist, axvline, use, linewidth, color
 -scatter, s, c, edgecolor, marker, alpha, cmap, colorbar, set_label, xscale, yscale
 
-#Seaborn
+#Seaborn:
 -set_theme, load_dataset, relplot, displot, multiple, hue, kde, data
 -heatmap, annot, cbar_kws
