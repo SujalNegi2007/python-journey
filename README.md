@@ -40,6 +40,7 @@ My daily Python learning projects.
 - Day 35: Week 5 Review & LeetCode — Solved Valid Anagram (LeetCode #242) and Top K Frequent Elements (LeetCode #347) + GitHub Portfolio Setup
 - Day 36: Mini Project (paused — resuming later)
 - Day 37: Python requests library & APIs — requests.get()/post(), response.json(), status_code handling; called 2 public free APIs and saved results as JSON
+- Day 38: Async/await basics. async def, await, asyncio.run(), asyncio.gather(). Wrote async function fetching 5 URLs with fake delays. Time it vs sync version
  
 ## Topics Covered
  
