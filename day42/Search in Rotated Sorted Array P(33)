@@ -1,0 +1,7 @@
+class Solution:
+    def search(self, nums: List[int], target: int) -> int:
+        if target in nums:
+            position = nums.index(target)
+            return position
+        else:
+            return -1
