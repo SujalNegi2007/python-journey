@@ -41,6 +41,9 @@ My daily Python learning projects.
 - Day 36: Mini Project (paused — resuming later)
 - Day 37: Python requests library & APIs — requests.get()/post(), response.json(), status_code handling; called 2 public free APIs and saved results as JSON
 - Day 38: Async/await basics. async def, await, asyncio.run(), asyncio.gather(). Wrote async function fetching 5 URLs with fake delays. Time it vs sync version
+- Day 42: Light day. Solved Search in Rotated Sorted Array (P33). Red what Phase 2 covers.
+- Day 43: Supervised vs unsupervised vs reinforcement. Mean, variance, std deviation, covariance, Pearson correlation. Toke notes and drew diagrams. Also Implement mean, variance, std, and Pearson from scratch using Python loops only. Verified answers against numpy.
+
  
 ## Topics Covered
  
