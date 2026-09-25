@@ -90,6 +90,7 @@ My daily Python learning projects.
  
 ### APIs & Web Requests
 - requests library — get(), post()
+- REST API
 - Parsing JSON responses — response.json()
 - Handling status codes
 - Consuming public/free APIs & saving responses to JSON
